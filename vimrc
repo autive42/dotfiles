@@ -28,3 +28,9 @@ set cursorline
 
 " Keep a buffer between the cursor and the edged of the screen
 :set scrolloff=10
+
+" Configure text wrapping
+:set wrap
+:set linebreak
+:set breakindent
+:set showbreak=>
