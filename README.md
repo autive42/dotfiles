@@ -1,4 +1,4 @@
 # dotfiles
-place for me to dump dotfiles and scripts and the like
+place for me to dump dotfiles 
 
 to install run install.sh
