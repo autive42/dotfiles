@@ -1,4 +1,4 @@
 # dotfiles
-place for me to dump dotfiles 
+A place for me to dump dotfiles 
 
-to install run `bash install.sh`
+To install run `bash install.sh` from inide the repository folder. This will create symlinks in the home directory and prompt before removal if the file alreay exists.
