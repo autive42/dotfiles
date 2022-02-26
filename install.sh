@@ -3,12 +3,12 @@
 BASEDIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 # bash
-ln -s ${BASEDIR}/bash_aliases ~/.bash_aliases
-ln -s ${BASEDIR}/inputrc ~/.inputrc
+ln -sfi ${BASEDIR}/bash_aliases ~/.bash_aliases
+ln -sfi ${BASEDIR}/inputrc ~/.inputrc
 
 # vim
-ln -s ${BASEDIR}/vimrc ~/.vimrc
+ln -sfi ${BASEDIR}/vimrc ~/.vimrc
 
 # git
-ln -s ${BASEDIR}/gitconfig ~/.gitconfig
-ln -s ${BASEDIR}/gitignore ~/.gitignore
+ln -sfi ${BASEDIR}/gitconfig ~/.gitconfig
+ln -sfi ${BASEDIR}/gitignore ~/.gitignore
