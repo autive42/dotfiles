@@ -13,9 +13,11 @@ filetype indent on
 " Turn syntax highlighting on.
 syntax on
 
-" Use 2 space characters instead of tabs.
+" Control how tabs behave
 set expandtab
-set shiftwidth=2
+set tabstop=4
+set shiftwidth=0
+set softtabstop=-1
 
 " Highlight cursor line underneath the cursor horizontally.
 set cursorline
