@@ -2,3 +2,4 @@ nm-applet &
 pa-applet &
 #xss-lock --transfer-sleep-lock -- light-locker &
 light-locker --lock-on-suspend --lock-on-lid &
+blueman-applet &
