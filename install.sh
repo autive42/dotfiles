@@ -19,3 +19,7 @@ ln -sfi ${BASEDIR}/xbindkeysrc ~/.xbindkeysrc
 
 # xprofile
 # ln -sfi ${BASEDIR}/xprofile ~/.xprofile
+
+# awesome
+mkdir ~/.config/awesome/
+ln -sfi ${BASEDIR}/awesome/* ~/.config/awesome/
