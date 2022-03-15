@@ -18,4 +18,4 @@ ln -sfi ${BASEDIR}/gitignore ~/.gitignore
 ln -sfi ${BASEDIR}/xbindkeysrc ~/.xbindkeysrc
 
 # xprofile
-ln -sfi ${BASEDIR}/xprofile ~/.xprofile
+# ln -sfi ${BASEDIR}/xprofile ~/.xprofile
