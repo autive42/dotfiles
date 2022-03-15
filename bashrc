@@ -11,3 +11,4 @@ PS1='[\u@\h \W]\$ '
 export EDITOR=vim
 export SUDO_EDITOR=vim
 export VISUAL=vim
+export BROWSER=firefox
