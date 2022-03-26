@@ -8,6 +8,7 @@ function run {
 }
 
 run nm-applet
-blueman-applet
+run blueman-applet
 run pa-applet
-run lightlocker --lock-on-suspend --lock-on-lid
+run light-locker --lock-on-suspend --lock-on-lid
+run picom
