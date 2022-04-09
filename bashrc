@@ -12,3 +12,5 @@ export EDITOR=vim
 export SUDO_EDITOR=vim
 export VISUAL=vim
 export BROWSER=firefox
+
+eval "$(thefuck --alias)"
