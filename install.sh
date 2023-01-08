@@ -15,11 +15,11 @@ ln -sfi ${BASEDIR}/gitconfig ~/.gitconfig
 ln -sfi ${BASEDIR}/gitignore ~/.gitignore
 
 # xbindkeys
-ln -sfi ${BASEDIR}/xbindkeysrc ~/.xbindkeysrc
+#ln -sfi ${BASEDIR}/xbindkeysrc ~/.xbindkeysrc
 
 # xprofile
 # ln -sfi ${BASEDIR}/xprofile ~/.xprofile
 
 # awesome
-mkdir ~/.config/awesome/
-ln -sfi ${BASEDIR}/awesome/* ~/.config/awesome/
+#mkdir ~/.config/awesome/
+#ln -sfi ${BASEDIR}/awesome/* ~/.config/awesome/
