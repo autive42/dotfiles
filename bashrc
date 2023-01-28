@@ -14,3 +14,7 @@ export VISUAL=vim
 export BROWSER=firefox
 
 eval "$(thefuck --alias)"
+
+if [ -f /etc/bash_completion ]; then
+    . /etc/bash_completion
+fi
